@@ -1,6 +1,6 @@
 # vipapp
 
-> A Vue.js project
+> 基于smltUI框架的 唯品会重构项目
 
 ## Build Setup
 
